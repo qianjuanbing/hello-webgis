@@ -1,0 +1,4 @@
+{
+  // 值设置为true时，每次保存的时候自动格式化；值设置为false时，代码格式化请按shift+alt+F
+  "editor.formatOnSave": true
+}
